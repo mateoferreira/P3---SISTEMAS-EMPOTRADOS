@@ -35,9 +35,11 @@ Los esquemas de mi circuito son, el general:
 <img width="722" height="531" alt="circuito" src="https://github.com/user-attachments/assets/cc4a47e5-03c3-4c86-98e6-7b7fe3ddf81d" />
 
 Y el del joystick:
+
 <img width="821" height="574" alt="Captura desde 2025-11-22 20-01-29" src="https://github.com/user-attachments/assets/c10a688d-dff5-40a0-a9a0-9b9c0d05a633" />
 
 Y mi circuito real: 
+
 ![image](https://github.com/user-attachments/assets/7a477f41-a567-49ed-ad7f-85bda0570ca8)
 
 ## VIDEO DEMOSTRATIVO
