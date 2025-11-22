@@ -40,7 +40,8 @@ Y el del joystick:
 
 Y mi circuito real: 
 
-![image](https://github.com/user-attachments/assets/7a477f41-a567-49ed-ad7f-85bda0570ca8)
+![image](https://github.com/user-attachments/assets/b2ca0f17-0fc5-4059-a60d-fc5faece1190)
+
 
 ## VIDEO DEMOSTRATIVO
 Por último, adjunto el enlace de mi video. He probado el circuito en numerosas ocasiones, provocando comportamientos indeseados intentando buscar errores y los he minimizado. No quiero decir que haya acabado con todos pero si puedo asegurar que mi programa cumple a la perfección las especificaciones y a prueba de errores.
