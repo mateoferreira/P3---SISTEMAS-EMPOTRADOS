@@ -48,4 +48,4 @@ Y mi circuito real:
 ## VIDEO DEMOSTRATIVO
 Por último, adjunto el enlace de mi video. He probado el circuito en numerosas ocasiones, provocando comportamientos indeseados intentando buscar errores y los he minimizado. No quiero decir que haya acabado con todos pero si puedo asegurar que mi programa cumple a la perfección las especificaciones y a prueba de errores.
 
-https://youtu.be/eBv9IiNePuA
+https://youtu.be/eBv9IiNePuA?si=lyyHkiabI4-EKQQB
